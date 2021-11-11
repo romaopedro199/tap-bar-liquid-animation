@@ -1,4 +1,4 @@
-# Tap bar líquid animation
+# Tap bar liquid animation
 
 Preview:
 
